@@ -1,7 +1,7 @@
 # ✈️ Online Flight Travel Agency Sales Dashboard
 
 
-### 🔗 [View the Interactive Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiY2JmOTAyNjYtYWIxZS00ZTNiLTk5MzMtZjlkNjQ0NmMxYWY2IiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9)
+### 🔗 [View the Interactive Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiY2JmOTAyNjYtYWIxZS00ZTNiLTk5MzMtZjlkNjQ0NmMxYWY2IiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9&embedImagePlaceholder=true&pageName=ReportSection)
 
 ## 📊 Project Overview
 
