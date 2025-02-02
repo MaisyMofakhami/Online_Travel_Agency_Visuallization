@@ -1,6 +1,6 @@
 # ✈️ Online Flight Travel Agency Sales Dashboard
 
-<iframe title="PowerBI_Proj_Travel_Agency" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiY2JmOTAyNjYtYWIxZS00ZTNiLTk5MzMtZjlkNjQ0NmMxYWY2IiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>
+[<iframe title="PowerBI_Proj_Travel_Agency" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiY2JmOTAyNjYtYWIxZS00ZTNiLTk5MzMtZjlkNjQ0NmMxYWY2IiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>](https://app.powerbi.com/view?r=eyJrIjoiY2JmOTAyNjYtYWIxZS00ZTNiLTk5MzMtZjlkNjQ0NmMxYWY2IiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9)
 
 ### 🔗 [View the Interactive Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiY2JmOTAyNjYtYWIxZS00ZTNiLTk5MzMtZjlkNjQ0NmMxYWY2IiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9)
 
