@@ -21,7 +21,8 @@ The dashboard is fully **interactive**, allowing users to filter, drill down, an
 - **Interactivity:**
   - Users can filter data by **time period, channels, or airlines**.
   - Hover over charts to view **detailed tooltips**.
-  - Dynamic slicers to adjust KPIs in real-time.
+  - Dynamic slicers to adjust KPIs in real time.
+    
 ![image](https://github.com/user-attachments/assets/d2c76bef-aa26-4982-a56d-b6a90dd197e1)
 
 ---
@@ -33,6 +34,7 @@ The dashboard is fully **interactive**, allowing users to filter, drill down, an
   - **Zoom** in/out on maps to explore specific regions.
   - Click on cities to filter related routes and metrics.
   - Geographic heatmaps update dynamically based on selections.
+    
 ![image](https://github.com/user-attachments/assets/32dc3f8d-b3ad-4077-8f5a-d5dc373f4a38)
 
 ---
@@ -44,6 +46,7 @@ The dashboard is fully **interactive**, allowing users to filter, drill down, an
   - Filter cancellations by **airline, flight route, and date range**.
   - Interactive charts to compare cancellation rates over time.
   - Drill-through functionality to analyze specific cases.
+    
 ![image](https://github.com/user-attachments/assets/2742aaca-4228-4c35-b193-670eb45b0e65)
 
 ---
